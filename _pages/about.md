@@ -19,11 +19,11 @@ Assisted 4,600 first year students in their transition to Miami University by ho
 - Miami University / Resident Assistant 
 
 AUGUST 2021 - MAY 2022
-Currently assisting 326 students through their life at Miami by building community, facilitating personal  growth, and providing social, professional, and education resources.
+Assisted 326 students through their life at Miami by building community, facilitating personal  growth, and providing social, professional, and education resources.
 - Freelance Program, Black Plastic Records
 
 MARCH 2023 - CURRENT
-Produced a Python scripts that generate information on the latest and most releveant vinyl releases from websites such as Spotify and Bandcamp
+Producing a Python scripts that generate information on the latest and most releveant vinyl releases from websites such as Spotify and Bandcamp
 - CEC Tutor, Miami University
 
 AUG 2021 - CURRENT 
