@@ -13,19 +13,24 @@ I am passionate about the intersection between applied creativity and rigorous e
 Experience
 ======
 - Miami University / Student Orientation Undergraduate Leader
+
 MAY 2021 - JAN 2022
 Assisted 4,600 first year students in their transition to Miami University by hosting orientation small group sessions, responding to student reflections and questions, and assisting with registration sessions.
 - Miami University / Resident Assistant 
+
 AUGUST 2021 - MAY 2022
 Currently assisting 326 students through their life at Miami by building community, facilitating personal  growth, and providing social, professional, and education resources.
 - Freelance Program, Black Plastic Records
+
 MARCH 2023 - CURRENT
 Produced a Python scripts that generate information on the latest and most releveant vinyl releases from websites such as Spotify and Bandcamp
 - CEC Tutor, Miami University
+
 AUG 2021 - CURRENT 
 Tutoring students in Math, Stats, Physics, and Computer Science Courses
 Courses include Object-Oriented Programming, Data Abstraction and Data Structures, Web Applications Programming, Calculus (I, II, III), Physics (I, II), Probability, etc.
 - Graduate Assistant, Miami University
+
 JAN 2023 - CURRENT 
 Assisting in multiple sections of an Object-Oriented Programming course through grading and student guidance during coding labs
 
