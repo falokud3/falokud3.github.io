@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Falokun D. / Graduate Profile"
+title                    : "Falokun D."
 title_separator          : "-"
 name                     : &name "David Falokun"
 description              : &description "Computer Science Graduate Student @ Miami University"
@@ -83,7 +83,7 @@ author:
   name             : "David Falokun"
   avatar           : "profile.jpeg"
   bio              : "Graduate Student at Miami University"
-  location         : "Oxford Ohio"
+  location         : "Oxford, Ohio"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/david-falokun/"
+  linkedin         : "david-falokun/"
   orcid            :
   pinterest        :
   soundcloud       :
